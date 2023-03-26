@@ -1,0 +1,26 @@
+{
+    "name": "krafenly-discord-bot-altyapi",
+    "version": "0.0.1",
+    "description": "krafenly tarafindan yapilan bir altyapi",
+    "main": "deneme.js",
+    "scripts": {
+      "test": "node deneme.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "common-tags": "^1.8.2",
+      "database-js": "^3.0.11",
+      "db": "^3.3.1",
+      "discord-ytdl-core": "^5.0.4",
+      "discord.js": "^12.5.1",
+      "discordjs-ytdl": "^2.2.0",
+      "ffmpeg-static": "^4.4.0",
+      "node-superfetch": "^0.2.3",
+      "opusscript": "^0.0.8",
+      "patch": "^0.0.1",
+      "quick.db": "^7.1.3",
+      "snekfetch": "^4.0.4",
+      "ytdl-core": "^4.9.2"
+    }
+  }
